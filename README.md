@@ -1,6 +1,5 @@
 # مقدمة
-
-![[Screenshot 2025-07-19 at 18.31.00.png]]
+<img width="1239" height="871" alt="Screenshot 2025-07-19 at 18 31 00" src="https://github.com/user-attachments/assets/e9ebfd72-0982-4544-a86c-ea6cdd44258d" />
 
 ## البدء
 
