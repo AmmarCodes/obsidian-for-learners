@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPaperclip",
       "LiNotebookText",
       "LiBookCopy",
       "LiTags",
-      "LiBookDashed",
-      "LiTemplaterIcon"
+      "LiBookDashed"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "البناء المنهجي": "LiBookText",
   "_قوالب": "LiBookDashed",
   "تصنيفات": "LiTags",
-  "مقررات": "LiNotebookText"
+  "مقررات": "LiNotebookText",
+  "مرفقات": "LiPaperclip"
 }

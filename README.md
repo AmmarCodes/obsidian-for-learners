@@ -1,5 +1,7 @@
 # مقدمة
 
+![[Screenshot 2025-07-19 at 18.31.00.png]]
+
 ## البدء
 
 - [نزل الملفات بصيغة zip](https://github.com/AmmarCodes/obsidian-for-learners/archive/refs/heads/main.zip) ثم فك الضغط على حاسبك.
