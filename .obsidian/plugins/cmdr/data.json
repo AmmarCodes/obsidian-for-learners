@@ -22,6 +22,18 @@
       "icon": "lucide-book-plus",
       "name": "أضف كتاب",
       "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:73531269-ca79-4c8b-955b-e8e2906e31cf",
+      "icon": "lucide-tag",
+      "name": "أضف تصنيف",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:21b870af-b6ee-419b-a9a7-e829d8be9da3",
+      "icon": "lucide-notebook-text",
+      "name": "أضف مقرر",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
