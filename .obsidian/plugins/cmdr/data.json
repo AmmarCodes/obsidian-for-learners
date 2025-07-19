@@ -1,0 +1,48 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:40e2753f-583c-4217-a1de-34a0328f36e4",
+      "icon": "lucide-user-plus",
+      "name": "أضف شخص",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:fac0b35e-f7ff-4402-8b66-f61aa46a4374",
+      "icon": "lucide-headphones",
+      "name": "أضف محاضرة",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:50ae06a1-3fc4-454c-8b55-a18da5d197d7",
+      "icon": "lucide-book-plus",
+      "name": "أضف كتاب",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
